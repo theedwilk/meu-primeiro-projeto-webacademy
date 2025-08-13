@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 (Este arquivo foi editado na branch development.)
+=======
+(Este arquivo foi editado na branch master.)
+>>>>>>> master
