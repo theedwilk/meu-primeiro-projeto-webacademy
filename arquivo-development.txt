@@ -1,1 +1,2 @@
 (Este arquivo foi editado na branch development.)
+(Este arquivo foi editado na branch development e vai ser salvo na branch master.)
